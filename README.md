@@ -97,10 +97,13 @@ Contoh:
     print(txt.format(umur))
     
 ##Keluaran
-    
+ 
+ Latihan 1
+ 
 ![ss61](https://user-images.githubusercontent.com/115911489/212922948-7a2c850c-4ea2-400b-9cdd-58f107dbc0e4.JPG)
     
 
+Latihan 2
 
 ![ss62](https://user-images.githubusercontent.com/115911489/212922625-2a6f2a69-9e1b-430a-8058-1d571f2a6531.JPG)
 
