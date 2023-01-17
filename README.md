@@ -34,7 +34,8 @@ Kode sumber
 ![image](https://user-images.githubusercontent.com/115911489/212920428-7e37ed28-0371-4ef4-9e50-387c11fb285e.png)
 
 
-![image](https://user-images.githubusercontent.com/115911489/212920518-fffac217-3983-4eda-afef-3a331a972bfe.png)
+![ss63](https://user-images.githubusercontent.com/115911489/212924571-6eefb982-e8c5-4bd4-9769-4705577d356e.JPG)
+
 
 
 ##Penjelasan latihan 1
